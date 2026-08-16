@@ -128,14 +128,15 @@ sobre:
 ### 🔗 Veja todas as minhas habilidades completas no LinkedIn
 
 <!-- ✏️ SUBSTITUA "seu-usuario-linkedin" pelo seu usuário real do LinkedIn -->
-<a href="
-https://www.linkedin.com/in/marcelo-augusto-lima-2a9155312">
+<!-- ✏️ SUBSTITUA "seu-usuario-linkedin" pelo seu usuário real do LinkedIn -->
+<a href="https://www.linkedin.com/in/marcelo-augusto-lima-2a9155312">
   <img src="https://img.shields.io/badge/LinkedIn-Ver%20perfil%20completo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221"/>
 </a>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 
 <!-- ========================================================= -->
 <!-- 🔧 FERRAMENTAS UTILIZADAS                                  -->
