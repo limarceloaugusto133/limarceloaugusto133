@@ -291,8 +291,7 @@ $ ./run_goals.sh --user=marcelo_augusto --status=active
 <div align="center">
 
 
-<a href="
-https://www.linkedin.com/in/marcelo-augusto-lima-2a9155312">
+<a href="https://www.linkedin.com/in/marcelo-augusto-lima-2a9155312">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221"/>
 </a>
 
