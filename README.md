@@ -178,7 +178,7 @@ Integração visão computacional e Sensores
 **Stack:** `Python` `Arduino` `Sensores`
 
 <!-- ✏️ Substitua pelo link real do repositório -->
-[🔗 Ver repositório](https://github.com/limarceloaugusto133/nome-do-projeto-1)
+[🔗 Ver repositório](https://github.com/limarceloaugusto133/GestVision)
 
 </td>
 <td width="33%" valign="top">
